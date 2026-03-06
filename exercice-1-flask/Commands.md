@@ -1,4 +1,4 @@
-## Commandes pour l'xercice 1 Flask
+## Commandes pour l'exercice 1
 
 # 1
 docker build -t flask-app:1.0.0 .
